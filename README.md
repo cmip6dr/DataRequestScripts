@@ -1,2 +1,2 @@
 # DataRequestScripts
-Various scripys
+Various scripts
